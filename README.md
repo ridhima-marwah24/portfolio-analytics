@@ -1,4 +1,4 @@
-Portfolio Analytics:
+**Portfolio Analytics**
 A Python and SQL-based portfolio analytics project designed to analyse the performance and composition of a simulated equity portfolio.
 
 Project Overview:
