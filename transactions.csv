@@ -1,0 +1,10 @@
+date,ticker,company,sector,transaction_type,quantity,price
+2026-01-10,RELIANCE,Reliance Industries,Energy,BUY,20,1285
+2026-01-15,HDFCBANK,HDFC Bank,Banking,BUY,40,885
+2026-01-20,TCS,TCS,IT,BUY,15,3150
+2026-01-25,INFY,Infosys,IT,BUY,25,1650
+2026-02-01,ITC,ITC,FMCG,BUY,100,410
+2026-02-05,BHARTIARTL,Bharti Airtel,Telecom,BUY,30,1820
+2026-02-10,LT,Larsen & Toubro,Industrials,BUY,15,3650
+2026-02-15,SUNPHARMA,Sun Pharma,Healthcare,BUY,20,1750
+2026-02-20,HINDCOPPER,Hindustan Copper,Metals & Mining,BUY,80,280
